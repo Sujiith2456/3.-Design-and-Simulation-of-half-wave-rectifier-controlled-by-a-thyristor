@@ -62,5 +62,15 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="924" height="552" alt="PE EXP 3 CD" src="https://github.com/user-attachments/assets/25b70c41-5c89-4776-ac42-0677197a3a29" />
+
 ## Output
+<img width="1909" height="840" alt="PE EXP3 WF1" src="https://github.com/user-attachments/assets/83adb573-10d3-4373-b7ed-2887d14329d6" />
+
+<img width="1911" height="878" alt="PE EXP3 WF2" src="https://github.com/user-attachments/assets/d645211e-9f54-4672-a814-31ab571d59a6" />
+
+<img width="1913" height="846" alt="PE EXP3 WF3" src="https://github.com/user-attachments/assets/73261596-4866-42c9-b539-f745ee957ea3" />
+
 ## Result
+Simulation of Half Wave Rectifier Controlled By a thyristor is designed in Matlab and simulated successfully.
