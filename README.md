@@ -63,18 +63,15 @@ After analysing the simulated output,
 
 ## Simulation
 
-<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/b1842b33-e426-4afa-84ad-419c04390ee6" />
+<img width="1096" height="485" alt="image" src="https://github.com/user-attachments/assets/bfbe4454-3be0-45b5-a3ae-345b24cd1689" />
+
 
 ## Output
 
-<img width="1280" height="567" alt="image" src="https://github.com/user-attachments/assets/de0e9c4a-bbe8-40ef-87fa-8eff6bb4224c" />
-
-<img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/984de779-2de2-4ef6-a911-b35bd842445e" />
-
-<img width="1280" height="562" alt="image" src="https://github.com/user-attachments/assets/9eb06459-bed7-4193-b37b-eda0729358e8" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/110e74c0-62a2-4bf2-9dbb-def0fdb704fc" />
 
 
 ## Result
+The half-wave controlled rectifier using a single thyristor was successfully simulated in MATLAB Simulink. The simulation results confirmed the theoretical analysis: the output DC voltage decreases with an increase in firing angle, demonstrating effective control of output power using phase control.
 
-Full wave rectifier controlled by thyristor is designed and simulated in matlab successfully.
 
