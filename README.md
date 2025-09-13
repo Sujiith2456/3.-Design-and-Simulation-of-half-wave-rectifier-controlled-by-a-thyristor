@@ -73,4 +73,4 @@ After analysing the simulated output,
 <img width="1913" height="846" alt="PE EXP3 WF3" src="https://github.com/user-attachments/assets/73261596-4866-42c9-b539-f745ee957ea3" />
 
 ## Result
-Simulation of Half Wave Rectifier Controlled By a thyristor is designed in Matlab and simulated successfully.
+Simulation of Half Wave Rectifier Controlled By a thyristor is designed in Matlab and simulated successfully..
